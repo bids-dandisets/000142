@@ -4,7 +4,12 @@
     "HEDVersion": "8.3.0",
     "Description": "U01 Lein PatchSeq upload September 2021",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Kalmbach, Brian",
+        "Chartrand, Tom",
+        "Lee, Brian",
+        "Lein, Ed"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
